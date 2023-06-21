@@ -8,3 +8,7 @@ Flutter 3.10.0
 [ios 版本下载地址](https://apps.apple.com/au/app/ireminder/id6450205813)
 
 Android 版本暂不支持
+
+# 演示
+https://github.com/jqzhang/iReminder/assets/2248184/9f7898de-e280-43dc-b1fb-3e7a849cc13a
+
